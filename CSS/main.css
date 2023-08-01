@@ -255,7 +255,7 @@ h2{
  .cards__img2{
   height: 25vh;
   width: 80%;
-  background-image: url(/IMG/Imagen2.jpg);
+  background-image: url(IMG/Imagen2.jpg);
   background-size: cover;
   margin-top: 30px;
   border-radius: 2rem;
